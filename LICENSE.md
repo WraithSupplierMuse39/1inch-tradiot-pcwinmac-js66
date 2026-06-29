@@ -1,4 +1,4 @@
-# 
+# Professional 1inch trading bot scripts for Mac OS | Premium 1inch trading bot scripts for PC Windows. Featuring mean reversion strategy and dex liquidity pools — optimized for maximum performance.
 
 
 
